@@ -1,2 +1,2 @@
 # Classic-algorithms
-Classic algorithms implementations in python
+Classic algorithms implementation in python
